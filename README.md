@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harutyun</h1>
 <h3 align="center">Machine Learning Engineer with hands-on experience in NLP and Computer Vision. Built end-to-end ML systems from data processing to deployment. Strong focus on production-ready solutions: model optimization, API development, and scalable pipelines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harut-prog" alt="harut-prog" /></a> </p>
-
 - 🔭 My latest work [Legal Text Classification with BERT](https://github.com/harut-prog/bert-prediction)
 
 - 🌱 I’m currently learning **Deep Learning frameworks, Principles of Large Language Models Operation**
